@@ -1,0 +1,17 @@
+{
+  "short_name": "MigrationSim",
+  "name": "Hemispheric Immigration Journey",
+  "description": "Navigate borders, collect resources, and survive the journey in this arcade strategy game.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/814/814513.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#eff6ff",
+  "background_color": "#eff6ff",
+  "orientation": "any"
+}
